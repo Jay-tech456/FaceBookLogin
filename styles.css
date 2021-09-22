@@ -1,0 +1,46 @@
+body { 
+background-color: #4267B2; 
+color: white; 
+}
+
+h1{ 
+    display: block;
+    margin-top: 4rem; 
+    text-align: center;
+    font-size: 4rem;
+}
+
+.card.cardbody{
+    margin: 2rem; 
+    background-color: #4267B2; 
+    font-size: 1.8rem;
+    font-weight: 400px;
+    border: none; 
+}
+form { 
+    margin-top: 25%; 
+    background-color: white;
+    color: black; 
+}
+
+.check { 
+margin-top: 10px;
+font-size: 40%;
+}
+
+a {
+    float: right; 
+    margin-right: 10px;
+}
+
+.btn.login{ 
+    margin-top: 10%; 
+    width: 100%; 
+}
+
+p { 
+color: white;
+    margin: auto;
+    text-align: center;
+
+}
